@@ -62,7 +62,7 @@ fun WelcomeScreen(navController: NavController){
                     fontWeight = FontWeight.Medium,
                     color = colorResource(id = R.color.text_gray),
                     textAlign = TextAlign.Center,
-                    text = "Login or create an account to take quiz, take part in challenge, and more."
+                    text = "Masuk atau buat akun untuk mengikuti kuis, ikut serta dalam tantangan, dan banyak lagi."
                 )
                 Spacer(modifier = Modifier.height(16.dp))
                 Button(
@@ -74,7 +74,12 @@ fun WelcomeScreen(navController: NavController){
                         containerColor = colorResource(id = R.color.primary_purple)
                     )
                 ) {
-                    Text(text = "Login", fontSize = 18.sp)
+                    Text(
+                        text = "Login",
+                        fontSize = 18.sp,
+                        fontWeight = FontWeight.Bold
+                    )
+
                 }
                 Spacer(modifier = Modifier.height(16.dp))
                 Button(
