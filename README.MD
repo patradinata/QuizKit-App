@@ -6,9 +6,7 @@
 Quiz Kit is a feature-rich quiz application developed for Android using Jetpack Compose. It provides users with an interactive platform to create, manage, and participate in quizzes. This application leverages modern Android development practices to offer a seamless and engaging user experience.
 </p>
 
-## Demo
 
-Check out the live demo of Quiz Kit [CLICK DEMO VIDEO HERE](https://www.youtube.com/watch?v=EW0K2y9Dhpk&t=10s)
 
 ## Installation
 
